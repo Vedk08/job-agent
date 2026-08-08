@@ -69,9 +69,7 @@ running dev server. Not yet tested: full click-through in an actual browser,
 and a real (non-mock) LLM call — both worth doing once you've got this
 running locally with an API key.
 
-## Still not done (per the original scope)
-
-- Deploy: backend → Render, frontend → Vercel
-- One live end-to-end test with a real API key
-- Swap this project in on your CV in place of the retired Gym Equipment
-  project, once you've run it yourself and it's genuinely yours
+## Live Demo
+- App: https://job-agent-three-eosin.vercel.app
+- Backend API: https://job-agent-wjq3.onrender.com
+- Repo: https://github.com/Vedk08/job-agent
